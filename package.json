@@ -1,0 +1,7 @@
+{
+  "name": "html-parse-blocking-test",
+  "version": "1.0.0",
+  "description": "Test for htm parse blocking",
+  "main": "index.js",
+  "license": "MIT"
+}
